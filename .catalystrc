@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "5795000000005068",
+      "name": "calculator",
+      "domain": {
+        "id": "50018384061",
+        "name": "calculator-60027952542.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "60027952542",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
